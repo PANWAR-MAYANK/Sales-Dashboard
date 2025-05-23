@@ -46,7 +46,12 @@ To help the business make smarter decisions using clear data insights and a reli
 ## 📸 Dashboard Preview
 
 ![Analysis and Key Insights](Dashboard.PNG)  
+*Main overview with KPIs and other insights.*
+
+
 ![Forecast Chart](Dashboard2.PNG)
+*Sales trends over time with short-term forecast and performance metrics.*
+
 
 ---
 
