@@ -43,6 +43,26 @@ To help the business make smarter decisions using clear data insights and a reli
 
 ---
 
+## 📸 Dashboard Preview
+
+![Analysis and Key Insights](Dashboard.png)  
+![Forecast Chart](Dashboard2.png)
+
+---
+
+## 📂 Dataset Overview
+
+- **File**: `SuperStore_Sales_Dataset.csv`
+- **Rows**: ~10,000
+- **Fields**:
+  - `Order ID`, `Order Date`, `Ship Date`, `Region`, `Segment`, `Category`, `Sub-Category`
+  - `Sales`, `Profit`, `Quantity`, `Discount`, `Ship Mode`, `State`, `Customer Name`, etc.
+- **Source**: [Kaggle](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting) 
+
+
+
+---
+
 ## 🎯 Outcomes
 - Delivered data-driven insights for sales and marketing strategy
 - Improved visibility into performance by region, category, customer segment and payment method
