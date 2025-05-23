@@ -45,8 +45,8 @@ To help the business make smarter decisions using clear data insights and a reli
 
 ## 📸 Dashboard Preview
 
-![Analysis and Key Insights](Dashboard.png)  
-![Forecast Chart](Dashboard2.png)
+![Analysis and Key Insights](Dashboard.PNG)  
+![Forecast Chart](Dashboard2.PNG)
 
 ---
 
