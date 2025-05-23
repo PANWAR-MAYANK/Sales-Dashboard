@@ -8,7 +8,7 @@ To help the business make smarter decisions using clear data insights and a reli
 ## 📊 Key Insights & Actionable Suggestions
 
 ### 🧾 Payment Preferences
-- **COD (43%)** is the most preferred, with **Online(35)** and **Cards(22)**.
+- **COD (43%)** is the most preferred, with **Online(35%)** and **Cards(22%)**.
 - **Action**: Maintain COD and introduce small incentives (e.g., discounts or loyalty points) for prepaid options to lower return rates.
 
 ### 🌍 Regional Sales Breakdown
